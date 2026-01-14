@@ -5,9 +5,8 @@
 
 h1 {
   font-family: Outfit, sans-serif;
-  font-weight: 300;
+  font-weight: 350;
   letter-spacing: 6px;
-  margin-left: 25px;
 }
 
 h2 {
@@ -17,9 +16,10 @@ h2 {
 h3 {
   font-family: Outfit, sans-serif;
   font-weight: 20;
-  padding-left: 10px;
-  padding-top: 0;
-  margin: 0;
+}
+
+.website-title {
+  margin-left: 35px;
 }
 
 p {
