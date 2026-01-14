@@ -23,4 +23,11 @@ p {
   font-family: Inter;
 }
 
+nav ul {
+  display: flex;
+  gap: 2rem;
+}
 
+nav a {
+  font-family: Outfit, sans-serif;
+}
