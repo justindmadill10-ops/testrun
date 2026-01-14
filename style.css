@@ -21,6 +21,11 @@ h3 {
   margin-left: 35px;
 }
 
+#name {
+  margin-top: 35px;
+  letter-spacing: 6px;
+}
+
 p {
   font-family: Inter;
 }
