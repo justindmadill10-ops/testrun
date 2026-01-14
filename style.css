@@ -6,9 +6,9 @@
 h1 {
   font-family: Outfit, sans-serif;
   font-weight: 200;
-  letter-spacing: 15rem;
-  padding-left: 2rem;
-  padding-bottom: 0.1rem;
+  letter-spacing: 10px;
+  padding-left: 10px;
+  padding-bottom: 0;
 }
 
 h2 {
@@ -18,8 +18,8 @@ h2 {
 h3 {
   font-family: Outfit, sans-serif;
   font-weight: 20;
-  padding-left: 2rem;
-  padding-top: 0.1rem;
+  padding-left: 10px;
+  padding-top: 0;
 }
 
 p {
