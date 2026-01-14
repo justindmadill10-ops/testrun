@@ -4,9 +4,15 @@
 }
 
 h1 {
-  font-family: Lato;
+  font-family: "Space Grotesk";
 }
 
 h2 {
-  font-family: Lato;
+  font-family: Space Grotesk;
 }
+
+p {
+  font-family: Inter;
+}
+
+
