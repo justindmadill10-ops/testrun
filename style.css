@@ -10,22 +10,19 @@ body {
   margin-right: 35px;
 }
 
-h1 {
+div h1 {
   font-family: Outfit, sans-serif;
   font-weight: 400;
+  letter-spacing: 9.5px;
 }
 
 h2 {
   font-family: Outfit, sans-serif;
 }
 
-h3 {
+div h3 {
   font-family: Outfit, sans-serif;
   font-weight: 25;
-}
-
-#name {
-  letter-spacing: 9.5px;
 }
 
 p {
