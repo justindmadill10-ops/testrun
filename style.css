@@ -10,15 +10,9 @@ body {
   margin-right: 35px;
 }
 
-.website-title {
-  width: 28ch;
-  text-align: justify;
-  txt-align-last: justify;
-  font-family: Outfit, sans-serif;
-}
-
 div h1 {
   font-weight: 400;
+  letter-spacing: 0.375rem;
 }
 
 h2 {
