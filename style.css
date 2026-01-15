@@ -18,12 +18,22 @@ body {
   font-weight: 500;
   font-size: 2rem;
   letter-spacing: 0.4rem;
+  color: rgb(0, 0, 0,);
 }
 
 .website-title h3 {
   font-weight: 100;
   font-size: 1.17rem;
   margin-bottom: 35px;
+  color: rgb(0, 0, 0);
+}
+
+.website-title strong {
+  font-weight: 200;
+}
+
+.website-title strong:hover {
+  color: rgb(196, 129, 28)
 }
 
 h2 {
