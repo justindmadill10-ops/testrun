@@ -32,7 +32,15 @@ p {
   font-family: Inter;
 }
 
+nav {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
   display: flex;
   gap: 2rem;
 }
