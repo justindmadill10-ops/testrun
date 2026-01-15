@@ -18,7 +18,7 @@ body {
   font-weight: 500;
   font-size: 2rem;
   letter-spacing: 0.4rem;
-  color: rgb(0, 0, 0,);
+  color: rgb(0, 0, 0);
 }
 
 .website-title h3 {
@@ -33,7 +33,7 @@ body {
 }
 
 .website-title strong:hover {
-  color: rgb(196, 129, 28)
+  color: rgb(196, 129, 28);
 }
 
 h2 {
@@ -59,11 +59,11 @@ nav ul {
 
 nav a {
   font-family: Inter, sans-serif;
-  text-decoration: none
+  text-decoration: none;
   font-size: 25px;
 }
 
 nav a:hover {
-  color: rgb(255, 121, 59);
-  text-decoration: none
+  color: rgb(196, 129, 28);
+  text-decoration: none;
 }
