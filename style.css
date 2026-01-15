@@ -47,9 +47,11 @@ nav ul {
 
 nav a {
   font-family: Inter, sans-serif;
-  font-size: 35px;
+  text-decoration: none
+  font-size: 25px;
 }
 
 nav a:hover {
   color: rgb(255, 121, 59);
+  text-decoration: none
 }
