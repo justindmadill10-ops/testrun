@@ -10,10 +10,14 @@ body {
   margin-right: 35px;
 }
 
-div h1 {
+.website-title {
+  width: 28ch;
+  text-align: justify;
+  txt-align-last: justify;
   font-family: Outfit, sans-serif;
+}
+div h1 {
   font-weight: 400;
-  letter-spacing: 9.5px;
 }
 
 h2 {
@@ -21,7 +25,6 @@ h2 {
 }
 
 div h3 {
-  font-family: Outfit, sans-serif;
   font-weight: 25;
 }
 
