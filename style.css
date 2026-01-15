@@ -46,7 +46,8 @@ nav ul {
 }
 
 nav a {
-  font-family: Outfit, sans-serif;
+  font-family: Inter, sans-serif;
+  font-size: 10px;
 }
 
 nav a:hover {
