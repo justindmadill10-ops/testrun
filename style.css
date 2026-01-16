@@ -63,6 +63,10 @@ nav a {
   font-size: 25px;
 }
 
+nav a:visited {
+  color: inherit;
+}
+
 nav a:hover {
   color: rgb(196, 129, 28);
   text-decoration: none;
