@@ -5,9 +5,9 @@
 }
 
 body {
-  margin-left: 35px;
-  margin-top: 35px;
-  margin-right: 35px;
+  margin-left: 2.1875rem;
+  margin-top: 2.1875rem;
+  margin-right: 2.1875rem;
 }
 
 .website-title {
@@ -24,7 +24,7 @@ body {
 .website-title h3 {
   font-weight: 100;
   font-size: 1.17rem;
-  margin-bottom: 35px;
+  margin-bottom: 2.1875rem;
   color: rgb(0, 0, 0);
 }
 
@@ -60,7 +60,7 @@ nav ul {
 nav a {
   font-family: Inter, sans-serif;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 0.9375rem;
 }
 
 nav a:visited {
