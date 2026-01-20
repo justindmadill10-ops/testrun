@@ -48,8 +48,10 @@ p {
 nav {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  background-color: rgba(85, 109, 48, 0.7); 
+  background-color: rgba(85, 109, 48, 0.2); 
   padding-left: 2.1875rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 nav ul {
