@@ -52,6 +52,7 @@ nav {
   padding-left: 2.1875rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  border: 0.25rem solid rgb(18, 18, 18);
 }
 
 nav ul {
